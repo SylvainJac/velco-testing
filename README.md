@@ -1,6 +1,8 @@
 # velco-testing
 Velco testing
 
+Java 11, Spring Boot 2.7.3, Lombok, Spring security, Mockito
+
 Velco testing permet de transformer un fichier .txt en Json en retour de la requête.
 
 ## End point
